@@ -1,0 +1,19 @@
+{
+  "name": "random-quotes-generator",
+  "version": "1.0.0",
+  "description": "this is random quote generator, design is not mine.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cxvarisorka/random-quote-generator.git"
+  },
+  "author": "Luka Tskhvaradze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cxvarisorka/random-quote-generator/issues"
+  },
+  "homepage": "https://github.com/Cxvarisorka/random-quote-generator#readme"
+}
